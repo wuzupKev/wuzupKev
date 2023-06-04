@@ -1,4 +1,4 @@
-<img align="center" src="https://64.media.tumblr.com/2db1651a06f802d81a914b29f3cc95f6/tumblr_pul9fipFgY1wnjxxqo10_1280.png" alt="wuzupkev" />
+<img align="center" src="https://www.stuartmcmillen.com/wp-content/uploads/2015/05/2015-05-Penmanship-podcast-header-cropped-1200.png" alt="wuzupkev" />
 
 <h1 align="center">Hello👋, I'm Kevin Chavarria</h1>
 <h3 align="center">A junior back developer who enjoy coding and making stuff.😎 🗄️ 👨🏽‍💻</h3>
