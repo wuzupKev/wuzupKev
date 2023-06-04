@@ -1,7 +1,9 @@
+###><img align="center" src="https://wallpapers.com/images/hd/cute-pink-purple-computer-keyboard-0usoxwt3t7jgill4.jpg" alt="wuzupkev" />
+
 <h1 align="center">Hello👋, I'm Kevin Chavarria</h1>
 <h3 align="center">A junior back developer whos enjoy coding and making stuff.😎 🗄️ 👨🏽‍💻</h3>
 
-><img align="center" src="https://wallpapers.com/images/hd/cute-pink-purple-computer-keyboard-0usoxwt3t7jgill4.jpg" alt="wuzupkev" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wuzupkev&label=Profile%20views&color=0e75b6&style=flat" alt="wuzupkev" /> </p>
 
 <h3 align="left">Connect with me:</h3>
