@@ -1,11 +1,8 @@
 <h1 align="center">Hello👋, I'm Kevin Chavarria</h1>
-<h3 align="center">A junior back developer who enjoy coding and making stuff.😎 🗄️ 👨🏽‍💻</h3>
+<h3 align="center">A junior back developer whos enjoy coding and making stuff.😎 🗄️ 👨🏽‍💻</h3>
 
+https://wallpapers.com/images/hd/cute-pink-purple-computer-keyboard-0usoxwt3t7jgill4.jpg
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wuzupkev&label=Profile%20views&color=0e75b6&style=flat" alt="wuzupkev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wuzupkev" alt="wuzupkev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/supkevbro_" target="blank"><img src="https://img.shields.io/twitter/follow/supkevbro_?logo=twitter&style=for-the-badge" alt="supkevbro_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,3 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wuzupkev&show_icons=true&locale=en&layout=compact" alt="wuzupkev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wuzupkev&show_icons=true&locale=en" alt="wuzupkev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wuzupkev&" alt="wuzupkev" /></p>
