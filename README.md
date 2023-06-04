@@ -1,4 +1,4 @@
-###<img align="center" src="https://wallpapers.com/images/hd/cute-pink-purple-computer-keyboard-0usoxwt3t7jgill4.jpg" alt="wuzupkev" />
+<img align="center" src="https://wallpapers.com/images/hd/cute-pink-purple-computer-keyboard-0usoxwt3t7jgill4.jpg" alt="wuzupkev" />
 
 <h1 align="center">Hello👋, I'm Kevin Chavarria</h1>
 <h3 align="center">A junior back developer whos enjoy coding and making stuff.😎 🗄️ 👨🏽‍💻</h3>
