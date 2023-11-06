@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" alt="wuzupkev" />
+<img align="center" src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" alt="wuzupkev" />
 
 
 <h3 align="left">Languages and Tools:</h3>
