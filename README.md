@@ -25,4 +25,8 @@
 <p>
     <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>  
 </p>
-
+<h3>Contact me</h3>
+<p>
+    <a><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
+    
+</p>
