@@ -1,4 +1,4 @@
-<img align="center" src="https://www.stuartmcmillen.com/wp-content/uploads/2015/05/2015-05-Penmanship-podcast-header-cropped-1200.png" alt="wuzupkev" />
+<img align="center" src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" alt="wuzupkev" />
 
 
 <h3 align="left">Languages and Tools:</h3>
