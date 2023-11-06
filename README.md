@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently studying bachelor's degree in software development.\
 🌱 &nbsp;I'm on track for learning more back-side technologies.\
 ✍️ &nbsp;In my free time, I pursue playing volleyball and messing around with my rubik cube.\
-✉️ &nbsp;You can shoot me an email at kevinchavarria414@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at kevinchavarria414@gmail.com! I'll try to respond as soon as I can.
 <h3 align="left">Languages and Tools:</h3>
 <p>
     <a ><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
