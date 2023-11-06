@@ -1,6 +1,12 @@
 <img align="center" src="https://i.pinimg.com/originals/1a/ca/14/1aca1432f8a8f93d4bd0932a8c0a6449.gif" alt="wuzupkev" />
 
+### 👨🏻‍💻 &nbsp;About Me
 
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying bachelor's degree in software development at the Technological University of Panama.\
+🌱 &nbsp;I'm on track for learning more back-side develpment.\
+✍️ &nbsp;In my free time, I pursue playing volleyball and messing around with my rubik cube.\
+✉️ &nbsp;You can shoot me an email at kevinchavarria414@gmail.com! I'll try to respond as soon as I can.\
 <h3 align="left">Languages and Tools:</h3>
 <p>
     <a ><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
