@@ -6,7 +6,12 @@
 🎓 &nbsp;I'm currently studying bachelor's degree in software development.\
 🌱 &nbsp;I'm on track for learning more back-side technologies.\
 ✍️ &nbsp;In my free time, I pursue playing volleyball and messing around with my rubik's cube.\
-✉️ &nbsp;You can shoot me an email at kvnthehuman@gmail.com! I'll try to respond as soon as I can.
+<h3>Contact me</h3>
+<p>
+    <a><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
+    <a href=mailto:"kvnthehuman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+</p>
+
 <h3 align="left">My stack:</h3>
 <p>
     <a ><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
@@ -31,8 +36,4 @@
 <p>
     <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>  
 </p>
-<h3>Contact me</h3>
-<p>
-    <a><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
-    <a href=mailto:"kvnthehuman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-</p>
+
