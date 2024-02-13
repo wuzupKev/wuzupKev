@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more back-side technologies.\
 ✍️ &nbsp;In my free time, I pursue playing volleyball and messing around with my rubik's cube.\
 ✉️ &nbsp;You can shoot me an email at kvnthehuman@gmail.com! I'll try to respond as soon as I can.
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My stack:</h3>
 <p>
     <a ><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
     <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
