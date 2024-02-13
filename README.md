@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying bachelor's degree in software development.\
 🌱 &nbsp;I'm on track for learning more back-side technologies.\
-✍️ &nbsp;In my free time, I pursue playing volleyball and messing around with my rubik's cube.\
+✍️ &nbsp;In my free time, I pursue playing volleyball and messing around with my rubik's cube.
 <h3>Contact me</h3>
 <p>
     <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
