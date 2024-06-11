@@ -6,8 +6,8 @@
 
 <h3>Contact me</h3>
 <p>
-    <a href=""><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"></a>  
     <a href=mailto:"kvnthehuman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+    <a href=""><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"></a>  
 </p>
 
 <h3 align="left">My stack:</h3>
