@@ -2,10 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying bachelor's degree in software development.\
-🌱 &nbsp;I'm on track for learning more back-side technologies.\
-✍️ &nbsp;In my free time, I pursue playing volleyball and messing around with my rubik's cube.
+👋Hello, let me introduce my self; My name is Kevin, a backend fan who's also into full-stack stuff. I'm all about learning and growing, especially when I can do it with a team. Serious about my work, but never too serious for a good laugh! Let's team up, learn, and build cool stuff together!
+
 <h3>Contact me</h3>
 <p>
     <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
