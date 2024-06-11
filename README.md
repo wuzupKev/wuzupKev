@@ -1,4 +1,4 @@
-<img align="center" src="https://pin.it/6Y1dSXJcU" alt="wuzupkev" />
+<img align="center" src="https://i.pinimg.com/originals/45/7d/fd/457dfd23651be7f9a008c356e916bbef.jpg" alt="wuzupkev" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
