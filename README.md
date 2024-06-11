@@ -1,4 +1,4 @@
-<img align="center" src="[https://i.pinimg.com/originals/45/7d/fd/457dfd23651be7f9a008c356e916bbef.jpg](https://i.pinimg.com/originals/fb/28/dd/fb28dded2ed694f7ef0cbd9242ea6738.jpg)" alt="wuzupkev" />
+<img align="center" src="https://i.pinimg.com/originals/45/7d/fd/457dfd23651be7f9a008c356e916bbef.jpg" alt="wuzupkev" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
