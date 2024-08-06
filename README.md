@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👋Welcome, let me introduce myself; My name is Kevin, a backend fan who's also into full-stack development. I'm all about learning and growing, especially when I can do it with a team. I'm serious about my work, but I'm never too serious for a good laugh! Let's team up, learn, and build cool stuff together!
+👋Welcome, let me introduce myself; My name is Kevin, a software dev who loves back side technnologies. I'm all about learning and growing, especially when I can do it with a team. I'm serious about my work, but I'm never too serious for a good laugh! Let's team up, learn, and build cool stuff together!
 
 <h3>Contact me</h3>
 <p>
