@@ -1,3 +1,4 @@
+
 <div align="center">
   <img height="200" src="https://media.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif"  />
 </div>
@@ -44,7 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wuzupkev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wuzupkev/wuzupkev/output/snake.svg" alt="Snake animation" />
 
 ###
-
