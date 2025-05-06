@@ -49,7 +49,7 @@
 
 ### 🧠 Contribuciones recientes
 
-![wuzupkev](https://github-readme-activity-graph.vercel.app/graph?username=TuNombreDeUsuario&theme=tokyo-night)
+![wuzupkev](https://github-readme-activity-graph.vercel.app/graph?username=wuzupkev&theme=tokyo-night)
 
 
 ###
