@@ -47,7 +47,9 @@
 
 ### 📊 GitHub Stats
 
-![wuzupkev](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&theme=tokyonight)
+### 🧠 Contribuciones recientes
+
+![wuzupkev](https://github-readme-activity-graph.vercel.app/graph?username=TuNombreDeUsuario&theme=tokyo-night)
 
 
 ###
