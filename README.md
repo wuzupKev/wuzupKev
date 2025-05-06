@@ -45,6 +45,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wuzupkev/wuzupkev/output/snake.svg" alt="Snake animation" />
+### 📊 GitHub Stats
+
+![wuzupkev](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&theme=tokyonight)
+
 
 ###
