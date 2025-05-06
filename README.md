@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wuzupkev/wuzupkev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wuzupkev/output/snake.svg" alt="Snake animation" />
 
 ###
 
